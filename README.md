@@ -59,7 +59,7 @@ Historical changes and earlier project references are documented in `CHANGELOG.m
 
 Daniel M.
 
-Project enquiries: meridian47@example.invalid
+Project enquiries: meridiantrace47@gmail.com
 
 ## License
 
